@@ -40,14 +40,14 @@ interest to the individuals named above.
 <!-- project/@updated (required):                                     -->
 <!--   * date of most recent review for correctness YYYY-MM-DD        -->
 
-<project xml:id="FRY-CLP2" updated="2020-08-12">
+<project xml:id="FRY-CLP3" updated="2020-08-12">
 
     <!-- Project Title -->
 
     <!-- title (required):                                            -->
     <!--   * complete project (book) title, capitalized               -->
     <!--   * no extra whitespace (tight), no markup, Unicode OK       -->
-    <title>CLP-2 Integral Calculus</title>
+    <title>CLP-3 Multivariable Calculus</title>
     <!-- subtitle (optional):                                         -->
     <!--   * same formatting as "title"                               -->
     <subtitle></subtitle>
@@ -150,10 +150,10 @@ interest to the individuals named above.
     <!-- * @ancillary2 does not yet exist, send request               -->
 
     <sites
-        landing="http://www.math.ubc.ca/~CLP/CLP2/"
-        source="https://github.com/arechnitzer/CLP2"
-        html="http://www.math.ubc.ca/~CLP/CLP2/clp_2_ic/index.html"
-        pdf="http://www.math.ubc.ca/~CLP/CLP2/"
+        landing="http://www.math.ubc.ca/~CLP/CLP3/"
+        source="https://github.com/arechnitzer/CLP3"
+        html="http://www.math.ubc.ca/~CLP/CLP3/clp_3_mc/index.html"
+        pdf="http://www.math.ubc.ca/~CLP/CLP3/"
         ancillary1=""
         />
 
@@ -168,14 +168,15 @@ interest to the individuals named above.
     <!--   * knowled, so brevity not required                         -->
 
     <description>
-        <p>A text for a standard first undergraduate integral calculus
+        <p>A text for a standard first undergraduate multivariable calculus
           course. Included are a substantial collection of problems with complete
         hints, answers and solutions. Many of those problems are taken from
       exams, midterms and quizzes given at UBC.</p>
     </description>
 
     <onesentence>
-        A text for a standard first undergraduate integral calculus course.
+        A text for a standard first undergraduate multivariable calculus
+          course.
     </onesentence>
     <!-- Features (Binary) -->
 
@@ -218,7 +219,7 @@ interest to the individuals named above.
     <!--                                                              -->
 
     <recognition
-        aim="yes"
+        aim="no"
         />
 
     <!-- Awards -->

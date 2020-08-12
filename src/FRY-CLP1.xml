@@ -40,7 +40,7 @@ interest to the individuals named above.
 <!-- project/@updated (required):                                     -->
 <!--   * date of most recent review for correctness YYYY-MM-DD        -->
 
-<project xml:id="FRY-CLP1" updated="2019-05-29">
+<project xml:id="FRY-CLP1" updated="2020-08-12">
 
     <!-- Project Title -->
 
@@ -80,15 +80,12 @@ interest to the individuals named above.
 
     <author url="http://www.math.ubc.ca/~feldman/"> <!-- or mailto: -->
         <displayname>Joel Feldman</displayname>
-        <affiliation>University of British Columbia</affiliation>
     </author>
     <author url="http://www.math.ubc.ca/~andrewr/"> <!-- or mailto: -->
         <displayname>Andrew Rechnitzer</displayname>
-        <affiliation>University of British Columbia</affiliation>
     </author>
     <author url="http://www.math.ubc.ca/~elyse/"> <!-- or mailto: -->
         <displayname>Elyse Yeager</displayname>
-        <affiliation>University of British Columbia</affiliation>
     </author>
     <!-- multiple authors, all colleagues  -->
     <affiliation>University of British Columbia</affiliation>
@@ -137,8 +134,8 @@ interest to the individuals named above.
     <!--   @phase: develop, ready, mature                             -->
 
     <character
-        subject="maths"
-        level="ugrd"
+        subject="math"
+        level="ugld"
         phase="mature"
         />
 
@@ -177,6 +174,10 @@ interest to the individuals named above.
       exams, midterms and quizzes given at UBC.</p>
     </description>
 
+    <onesentence>
+        A text for a standard first undergraduate differential calculus
+          course.
+    </onesentence>
     <!-- Features (Binary) -->
 
     <!--   List of features, present or absent                        -->
@@ -218,7 +219,7 @@ interest to the individuals named above.
     <!--                                                              -->
 
     <recognition
-        aim="no"
+        aim="yes"
         />
 
     <!-- Awards -->
@@ -228,7 +229,9 @@ interest to the individuals named above.
     <!-- * can contain simple markup, additional URLs                 -->
     <!-- * a narrative description of any awards received             -->
 
+<!--
     <awards>
     </awards>
+ -->
 
 </project>
